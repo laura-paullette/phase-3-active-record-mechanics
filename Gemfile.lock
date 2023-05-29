@@ -24,6 +24,7 @@ GEM
 PLATFORMS
   arm64-darwin-21
   universal-darwin-20
+  x64-mingw-ucrt
 
 DEPENDENCIES
   activerecord (~> 6.1)
